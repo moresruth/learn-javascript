@@ -12,5 +12,10 @@ let messages = [
 // console.log(messages[2])
 // console.log(messages[3])
 
+// for (let count = 10; count < 101; count += 10){
+//     console.log(count)
+// }
 
-
+for (let messages = [0]; messages< [5]; messages += [1]){
+    console.log(messages)
+}
