@@ -6,3 +6,12 @@ let weekday = "Friday"
 
 
 
+if (dayOfMonth === 13 && weekday === "Friday") {
+    
+    spookyFace()
+ }
+
+
+function spookyFace() {
+console.log("😱")
+}

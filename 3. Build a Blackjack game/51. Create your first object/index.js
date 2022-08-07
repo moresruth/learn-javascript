@@ -3,3 +3,12 @@
 // Log out at least two of the keys using the dot notation
 
 
+let castle ={
+    title: "Farm Hourse AirBnB",
+    big: false,
+    price: 23.00,
+    feature: ["l", "a"]
+}
+
+console.log(castle.title)
+console.log(castle.price)

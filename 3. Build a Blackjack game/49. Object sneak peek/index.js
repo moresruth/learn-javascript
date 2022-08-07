@@ -7,6 +7,9 @@ let messageEl = document.getElementById("message-el")
 let sumEl = document.getElementById("sum-el")
 let cardsEl = document.getElementById("cards-el")
 
+
+// objects -store data oin-depth - composite/ complex data type
+// key-value pair
 let player = {
     name: "Per",
     chips: 145
